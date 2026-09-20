@@ -15,7 +15,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information about contributing to the
 The Titanfall 2 Handbook is an independently created and maintained
 community documentation project.
 
-The Handbook was originally written and created by Knightfire-rdp.
+The Handbook was originally written and created 2 years ago by Knightfire-rdp.
 The project is maintained by its owner, who reviews and approves
 community contributions.
 
