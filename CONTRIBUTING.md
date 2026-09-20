@@ -2,7 +2,7 @@
 
 Thanks to you a lot for helping improve the Titanfall 2 Handbook!
 
-The Handbook is a community-maintained project, and contributions are welcome. They will thoroughly inspected and edited if needed.
+The Handbook is a community-maintained project, and contributions are welcome.
 
 ## What you can contribute
 
