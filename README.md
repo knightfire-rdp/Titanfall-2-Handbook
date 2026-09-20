@@ -12,9 +12,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information about contributing to the
 
 ## About
 
-The Titanfall 2 Handbook is an independent community project and is not affiliated with or endorsed by Electronic Arts or Respawn Entertainment.
+The Titanfall 2 Handbook is an independently created and maintained
+community documentation project.
 
-Titanfall 2 and related game assets are trademarks and/or property of their respective owners.
+The Handbook was originally written and created by Knightfire-rdp.
+The project is maintained by its owner, who reviews and approves
+community contributions.
+
+Community members are welcome to suggest improvements and submit
+pull requests, but contributions are reviewed and merged by the
+project maintainer.
 
 ## License
 
