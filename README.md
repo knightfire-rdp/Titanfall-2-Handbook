@@ -1,7 +1,7 @@
 # Titanfall-2-Handbook
 Unique and custom-tailored Handbook around Titanfall 2 content, mainly focused on Titan comp scene.
 
-The Handbook collects information about Titanfall 2's Titans as whole, including the gameplay and movement mechanics, weapons and abilities indepth expplanations, and even combat guides. 
+The Handbook collects information about Titanfall 2's Titans as whole, including the gameplay and movement mechanics, weapons and abilities indepth explainations, and even combat guides. 
 As of now there is also competitive related information and Frontier Defence speedrunning content.
 
 ## Contributing
