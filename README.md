@@ -22,9 +22,3 @@ community contributions.
 Community members are welcome to suggest improvements and submit
 pull requests, but contributions are reviewed and merged by the
 project maintainer.
-
-## License
-
-The original documentation and other original work in this repository is made available under the license specified in [LICENSE](LICENSE).
-
-Third-party materials remain the property of their respective owners and are not covered by that license.
