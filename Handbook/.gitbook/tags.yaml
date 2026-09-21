@@ -1,0 +1,45 @@
+- tag: titanfall-2
+  label: Titanfall 2
+  emoji: 🎮
+- tag: wiki
+  label: Wiki
+  icon: w
+- tag: mechanics
+  label: Mechanic
+  emoji: ⚙️
+- tag: guides
+  label: Guides
+  emoji: 🛠️
+- tag: tips
+  label: Tips
+  emoji: 💡
+- tag: index
+  label: Index
+  emoji: 📂
+- tag: titans
+  label: Titans
+  emoji: 🛡️
+- tag: competitive
+  label: Competitive
+  emoji: ⚔️
+- tag: pilots
+  label: Pilots
+  emoji: 🏃
+- tag: maps
+  label: Maps
+  emoji: 🗺️
+- tag: game-bug
+  label: Bug/Disadvantage
+  emoji: 🔻
+- tag: speedrunning
+  label: Speedrunning
+  emoji: ⚡
+- tag: frontier-defense
+  label: Frontier Defense
+  emoji: 🌊
+- tag: meme
+  label: meme
+  emoji: 🤪
+- tag: tradeoff-tech
+  label: Tradeoff Tech
+  emoji: 🔰
