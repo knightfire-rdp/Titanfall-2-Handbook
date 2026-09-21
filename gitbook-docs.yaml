@@ -8,5 +8,5 @@ site:
       path: untitled-1
       default: true
       content:
-        directory: ./untitled-1
+        directory: ./Handbook
         language: en
