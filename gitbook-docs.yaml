@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Titanfall 2 Handbook
+  structure:
+    - type: space
+      key: space-1
+      title: Titanfall 2 Handbook
+      path: untitled-1
+      default: true
+      content:
+        directory: ./Handbook
+        language: en
